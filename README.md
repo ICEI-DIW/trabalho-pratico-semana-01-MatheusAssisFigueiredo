@@ -3,11 +3,14 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Matheus Assis Figueiredo
+Matricula: 892117
 
 ## Tela de inspeção com navegador
+![image](https://github.com/user-attachments/assets/f821727d-4f31-4a5c-91f9-f161c8871a97)
 
 
 ## Tela de projeto no Replit
+![image](https://github.com/user-attachments/assets/a7195231-6389-4287-81db-1575da605dbf)
+
 
